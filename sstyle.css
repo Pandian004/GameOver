@@ -4,7 +4,7 @@
     text-align: center;
     margin: 15% 35%;
     border-radius:10px;
-    border: #6f6f6f 4px solid;
+    border: 1px solid #333;
     font-family: 'Courier New', Courier, monospace;
 }
 a{
@@ -22,9 +22,9 @@ body{
     border-radius:10px;
     font-family: 'Courier New', Courier, monospace;
 }
-input{
+input[type=text],input[type=password]{
     padding: 15px;
-    width: 70%;
+    width: 50%;
     border-radius:10px;
     font-family: 'Courier New', Courier, monospace;
 }
